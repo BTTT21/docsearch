@@ -1,4 +1,4 @@
-plos
+wc report just the word count with the -w option)plos
 plos/pmed.0020273.txt
 plos/journal.pbio.0030032.txt
 plos/pmed.0020065.txt
